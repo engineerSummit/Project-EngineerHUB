@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402717366151",
+    "project_id": "alley-care",
+    "storage_bucket": "alley-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402717366151:android:7b188937b9b7c1870aa522",
+        "android_client_info": {
+          "package_name": "com.example.alley_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402717366151-pkf5u485kbpaf190oin8cuqulbk40gum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2jInfJpbFuXlTm4r0LDvCN5OcwiA_GpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402717366151-pkf5u485kbpaf190oin8cuqulbk40gum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
